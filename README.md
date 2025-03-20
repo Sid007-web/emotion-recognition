@@ -21,5 +21,5 @@ This project uses a machine learning model to predict emotions from speech. It i
  scikit-learn
  pickle
 4. Run the Streamlit app:
-   streamlit run app.py
+   streamlit run Speech.py
 5. Open your browser and go to http://localhost:8501
