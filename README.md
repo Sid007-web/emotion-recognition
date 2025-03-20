@@ -7,7 +7,7 @@ This project uses a machine learning model to predict emotions from speech. It i
 - Displays the predicted emotion (e.g., Happy, Sad, Angry, etc.).
 - Built with a Multi-Layer Perceptron (MLP) classifier trained on audio features like MFCCs, Chroma, and Mel Spectrogram.
 
-## How to Run Locally 🛠
+## How to Run Locally 
 ### Steps
 1. **Clone this repository**:
    ```bash
