@@ -11,7 +11,7 @@ This project uses a machine learning model to predict emotions from speech. It i
 ### Steps
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/Sid007-web/emotion-recognition.git
+   git clone : https://github.com/Sid007-web/emotion-recognition.git
 2. Navigate to the project directory.
 3. Install the required dependencies:
  streamlit
